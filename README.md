@@ -21,7 +21,7 @@ sudo apt install python3-tk
    python converterv2.py
    ```
 
-## 🧭 Si esta en linux
+## 🧭 Si estas en linux
 
 1. Entrar a la carpeta donde se encuentran los archivos mediante terminal
 
