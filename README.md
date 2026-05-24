@@ -18,8 +18,30 @@ sudo apt install python3-tk
    ```
 3. Ejecuta la aplicación:
    ```bash
-   python3 converterv2.py
+   python converterv2.py
    ```
+
+## 🧭 Si esta en linux
+
+1. Entrar a la carpeta donde se encuentran los archivos mediante terminal
+
+2. Crear entorno Virtual
+   ```bash
+      python3 -m venv mi_entorno
+   ```
+
+3. Iniciar entorno virtual
+   ```bash
+      source mi_entorno/bin/activate
+    ```
+4. Iniciar archivo
+   ```bash
+      python3 converterv2.py
+    ```
+
+## 🧸 Si tienes Windows
+
+Dado el caso de que tengas windows,este sistema proporciona la extencion ```.pyw ``` el cual ejecuta el archivo sin la terminal abierta
 
 ## 📋 Características
 - Conversión entre múltiples formatos: PNG, JPG, WEBP e ICON.
