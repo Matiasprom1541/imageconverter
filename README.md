@@ -47,3 +47,9 @@ Dado el caso de que tengas windows,este sistema proporciona la extencion ```.pyw
 ## 📋 Características
 - Conversión entre múltiples formatos: PNG, JPG, WEBP e ICON.
 - Detección inteligente de rutas multiplataforma.
+
+## 🔥 Licencia
+
+-Licencia MIT
+
+
